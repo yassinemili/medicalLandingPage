@@ -1,4 +1,4 @@
-# Medicql landing page
+# Medical landing page
 
 ## Overview
 This project is a React-based web application built using the latest technologies, including custom UI components, `shadcn` library, and Framer Motion for animations. The project implements various medical features such as doctor specialties, testimonials, and a hero section for medical consultations.
